@@ -1,0 +1,9 @@
+---
+title: "My first post with R"
+description: "nice pic"
+author: "Powder"
+date: "11/20/2024"
+image: isha.jpg
+categories:
+- Isha
+---

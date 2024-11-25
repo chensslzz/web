@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Arcane",
+    "section": "",
+    "text": "Welcome to Arcane"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jinx (used name : Powder)\n“It’s Jinx now. Powder fell down a well.”\nJinx (born as Powder) is a notorious Zaunite criminal and one of the two lead characters of the animated series Arcane, alongside her older sister Vi. When she was a little girl, her parents were murdered in a failed uprising against Piltover, leading Vander, the leader of the rebellion, to adopt her and her sister as his daughters. After a series of tragic events forced Jinx and Vi apart, she was fundamentally and irrevocably changed, leading her to reject her old identity as Powder and become the nihilistic anarchist she is today.\nHer favorite formula:\n\\[L(\\theta) = \\prod_{i=1}^{n}[F(x_i +0.5),F(x_i -0.5)]\\]\n\n\\[L(\\theta) = \\prod_{i=1}^{n}(e^{-(x_i-0.5)/\\theta})-(e^{-(x_i+0.5)/\\theta})\\]\n\\[l(\\theta) = \\sum_{i=1}^{n}log(e^{-(x_i-0.5)/\\theta}-e^{-(x_i+0.5)/\\theta})\\]"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "My first post with R\n\n\n\n\n\n\nSelfie\n\n\n\nnice pic\n\n\n\n\n\nNov 20, 2024\n\n\nPowder\n\n\n\n\n\n\n\n\n\n\n\n\nMy first post with R\n\n\n\n\n\n\nIsha\n\n\n\nnice pic\n\n\n\n\n\nNov 20, 2024\n\n\nPowder\n\n\n\n\n\n\nNo matching items"
+  }
+]

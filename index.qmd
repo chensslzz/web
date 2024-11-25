@@ -1,0 +1,17 @@
+---
+title: "Arcane"
+navbar:
+  right:
+    - href: index.qmd
+      text: Home
+    - icon: github
+      href: https://github.com/chensslzz
+    - icon: twitter
+      href: https://twitter.com/my_user_name
+---
+
+Welcome to Arcane
+
+```{r}
+
+```

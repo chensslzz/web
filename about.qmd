@@ -1,0 +1,33 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: images/powder1.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: github
+      text: Github
+      href: https://github.com/
+---
+
+Jinx (used name : Powder)
+
+"It's Jinx now. Powder fell down a well."
+
+**Jinx** (born as **Powder**) is a notorious [Zaunite](https://leagueoflegends.fandom.com/wiki/Zaun "Zaun") criminal and one of the two lead characters of the animated series [*Arcane*](https://leagueoflegends.fandom.com/wiki/Arcane "Arcane"), alongside her older sister [Vi](https://leagueoflegends.fandom.com/wiki/Vi/Arcane "Vi/Arcane"). When she was a little girl, her parents were murdered in a failed uprising against [Piltover](https://leagueoflegends.fandom.com/wiki/Piltover "Piltover"), leading [Vander](https://leagueoflegends.fandom.com/wiki/Vander "Vander"), the leader of the rebellion, to adopt her and her sister as his daughters. After a series of tragic events forced Jinx and Vi apart, she was fundamentally and irrevocably changed, leading her to reject her old identity as Powder and become the nihilistic anarchist she is today.
+
+Her favorite formula:
+
+$$L(\theta) = \prod_{i=1}^{n}[F(x_i +0.5),F(x_i -0.5)]$$\
+
+$$L(\theta) = \prod_{i=1}^{n}(e^{-(x_i-0.5)/\theta})-(e^{-(x_i+0.5)/\theta})$$\
+$$l(\theta) = \sum_{i=1}^{n}log(e^{-(x_i-0.5)/\theta}-e^{-(x_i+0.5)/\theta})$$
+
+```{r}
+
+```
